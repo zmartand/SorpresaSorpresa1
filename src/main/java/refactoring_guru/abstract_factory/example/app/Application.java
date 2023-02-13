@@ -22,4 +22,5 @@ public class Application {
         button.paint();
         checkbox.paint();
     }
+
 }

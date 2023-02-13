@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d8082c-e55a-4b04-8198-b737e792ba10" name="Changes" comment="todo menos diagramas y plantuml">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="18d8082c-e55a-4b04-8198-b737e792ba10" name="Changes" comment="interfaz gráfica 2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/factories/GUIFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/factories/GUIFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/factories/GUIFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/factories/GUIFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/app/app.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/app/app.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/buttons/MacOSButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/buttons/MacOSButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/buttons/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/buttons/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/app/app.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/buttons/MacOSButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/buttons/MacOSButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/buttons/WindowsButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/buttons/WindowsButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckbox.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +57,8 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/Zara Martín/Desktop/tecnicas de programacion/SorpresaSorpresa",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,8 +84,23 @@
       <option name="presentableId" value="Default" />
       <updated>1676294939451</updated>
       <workItem from="1676294940790" duration="1025000" />
-      <workItem from="1676302237099" duration="10219000" />
+      <workItem from="1676302237099" duration="12536000" />
     </task>
+    <task id="LOCAL-00001" summary="interfaz gráfica">
+      <created>1676325654239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325654239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="interfaz gráfica">
+      <created>1676325665335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325665335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="todo menos diagramas y plantuml" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo menos diagramas y plantuml" />
+    <MESSAGE value="interfaz gráfica" />
+    <MESSAGE value="interfaz gráfica 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaz gráfica 2.0" />
   </component>
 </project>
