@@ -3,7 +3,7 @@ Examen 1
 ## Nota:
 Mi repositorio es https://github.com/zmartand/SorpresaSorpresa1.git
 ## Enunciado
-__El patrón Abstract Factory proporciona una manera clara y organizada de crear objetos relacionados, sin tener que especificar exactamente qué objetos se crean. Esto permite una mayor flexibilidad y escalabilidad, ya que se pueden agregar nuevos tipos de diálogos o fábricas sin afectar la estructura existente. También ayuda a mejorar la cohesión y la modularidad del código, ya que los componentes están claramente separados y responsables de su propia tarea específica. A continuación debes realizar de manera individual este pequeño ejemplo:
+El patrón Abstract Factory proporciona una manera clara y organizada de crear objetos relacionados, sin tener que especificar exactamente qué objetos se crean. Esto permite una mayor flexibilidad y escalabilidad, ya que se pueden agregar nuevos tipos de diálogos o fábricas sin afectar la estructura existente. También ayuda a mejorar la cohesión y la modularidad del código, ya que los componentes están claramente separados y responsables de su propia tarea específica. A continuación debes realizar de manera individual este pequeño ejemplo:
 
 En este ejercicio se crean dos clases diferentes de diálogos: DialogoWindows y DialogoMac, cada una con su propia implementación de la interfaz Dialogo. 
 
