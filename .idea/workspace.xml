@@ -6,19 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18d8082c-e55a-4b04-8198-b737e792ba10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/ButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/ButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/MacOSButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/MacOSButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/WindowsButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/buttons/WindowsButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/CheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/CheckboxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckboxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckboxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/ButtonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/ButtonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/MacOSButtonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/MacOSButtonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/WindowsButtonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/buttons/WindowsButtonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/CheckboxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/CheckboxTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckboxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/MacOSCheckboxTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckboxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/refactoring_guru/abstract_factory/example/checkboxes/WindowsCheckboxTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,7 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="UML Class" />
       </list>
     </option>
   </component>
@@ -48,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultPlantUmlFileTemplate": "UML Class",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -56,7 +45,8 @@
     "last_opened_file_path": "C:/Users/Zara Martín/Desktop/tecnicas de programacion/SorpresaSorpresa",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,6 +54,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zara Martín\Desktop\tecnicas de programacion\SorpresaSorpresa\src\main" />
       <recent name="C:\Users\Zara Martín\Desktop\tecnicas de programacion\SorpresaSorpresa\src\main\java\org\example" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -83,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676294939451</updated>
       <workItem from="1676294940790" duration="1025000" />
-      <workItem from="1676302237099" duration="12894000" />
+      <workItem from="1676302237099" duration="13457000" />
     </task>
     <task id="LOCAL-00001" summary="interfaz gráfica">
       <created>1676325654239</created>
@@ -106,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676327995043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="interfaz gráfica 2.0">
+      <created>1676328310931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676328310931</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
