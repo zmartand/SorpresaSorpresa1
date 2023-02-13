@@ -3,7 +3,6 @@ package refactoring_guru.abstract_factory.example.factories;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 class GUIFactoryTest {
 
     @Test
@@ -12,5 +11,13 @@ class GUIFactoryTest {
 
     @Test
     void createCheckbox() {
+    }
+
+    @Test
+    void testCreateButton() {
+    }
+
+    @Test
+    void testCreateCheckbox() {
     }
 }
