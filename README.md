@@ -36,4 +36,3 @@ Pruebas y funcionamiento: (25 puntos) con JUnit (https://blog.softtek.com/es/tes
 ¿El código se ejecuta sin errores y produce los resultados esperados?
 ¿Están consideradas y manejadas adecuadamente las posibles excepciones y errores?
 
-Diagrama PlantUML : <img src ="https://www.plantuml.com/plantuml/svg/jP51IyGm48NlyojwR5dw1_OWguBIWtYGnNDsTXQBQLAIAIgB_zrgaiq48IUzXVTUlzUPsNbMZfT9ms2Ot4aXDVVxuKuXM_TnXWqwKamt2xCrRRSDZoJVlX2-7kpxQgGdV0AWLjutpwCvsZSVKSqupPecCkp_gk11uUFJ_-6lvrcFg7YqvWpzAH2t6GxzuGUMc3r6H6R1Ha3QtuWk_SX-QBkrMHmXGhEGeSLwGqwE7vGobJwMkQJ9RTPeALDbWHYuwQ_4BKfdjI9PNl5R3oLLyz8MfvE1OYsLm8Mn8tDS9lq5"/>
